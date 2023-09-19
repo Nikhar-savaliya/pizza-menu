@@ -1,8 +1,9 @@
-# React + Vite
+# Pizza menu
+URL 🔗: https://pizza-menu-nine.vercel.app/
+- simple website for a restaurant, contains menu items that the restaurant offers.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+It uses some React concepts listed below.
+1. components
+2. props
+3. ternary operator
+4. adding CSS to react component
